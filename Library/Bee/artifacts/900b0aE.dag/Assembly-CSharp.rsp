@@ -366,14 +366,14 @@
 -r:"Library/Bee/artifacts/900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.57f1c2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.57f1c2/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/TutorialInfo/Scripts/CameraController.cs"
-"Assets/TutorialInfo/Scripts/House Define.cs"
-"Assets/TutorialInfo/Scripts/Readme.cs"
-"Assets/TutorialInfo/Scripts/Updater/GlobalUpdater.cs"
-"Assets/TutorialInfo/Scripts/WorldUtil/detecter/SphereCollisionDetector.cs"
-"Assets/TutorialInfo/Scripts/WorldUtil/input/InputData.cs"
-"Assets/TutorialInfo/Scripts/WorldUtil/input/InputSnapshot.KeyboardInput.cs"
-"Assets/TutorialInfo/Scripts/WorldUtil/input/InputSnapshot.TouchInput.cs"
+"Assets/Scripts/BaseDefine.cs"
+"Assets/Scripts/CameraController.cs"
+"Assets/Scripts/Common/Scenes.cs"
+"Assets/Scripts/Updater/GlobalUpdater.cs"
+"Assets/Scripts/WorldUtil/detecter/SphereCollisionDetector.cs"
+"Assets/Scripts/WorldUtil/input/InputData.cs"
+"Assets/Scripts/WorldUtil/input/InputSnapshot.KeyboardInput.cs"
+"Assets/Scripts/WorldUtil/input/InputSnapshot.TouchInput.cs"
 -langversion:9.0
 /deterministic
 /optimize+
